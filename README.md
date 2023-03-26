@@ -7,10 +7,10 @@ This Python script uses the Pillow library to add a watermark to JPG and PNG ima
 ## Usage
 
 1. Install the Pillow library by running `pip install Pillow` in your terminal.
-2. Clone this repository to your local machine using `git clone <repository-url>`.
+2. Clone this repository to your local machine using `git clone <https://github.com/enoobis/img-watermark>`.
 3. Put your JPG and/or PNG images that you want to watermark in the `input/` directory.
-4. Open the `watermark_images.py` file and modify the `watermark_text` variable to customize your watermark text.
-5. Run the script by executing `python watermark_images.py` in your terminal.
+4. Open the `watermark_images.py` file and modify the `enoobis` variable to customize your watermark text.
+5. Run the script by executing `python main.py` in your terminal.
 6. The watermarked images will be saved in the `output/` directory.
 
 
