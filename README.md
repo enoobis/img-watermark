@@ -13,15 +13,6 @@ This Python script uses the Pillow library to add a watermark to JPG and PNG ima
 5. Run the script by executing `python watermark_images.py` in your terminal.
 6. The watermarked images will be saved in the `output/` directory.
 
-## Example
-
-Original image:
-
-![Original image](input/example.jpg)
-
-Watermarked image:
-
-![Watermarked image](output/example.jpg)
 
 
 
